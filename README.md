@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-# 🤖 ai-object-detection
-## 👋 About this project
+
+#  ai-object-detection
+## About this project
 This is a web AI object detection. You can use it in your web browser. This web application uses the camera of your device to detect objects.
 
-## ⚙️ Features
+## ⚙ Features
 
-- ✅ Toggle switch to turn AI on or off
-- ✅ Range slider to control frame rate
+- Toggle switch to turn AI on or off
+- Range slider to control frame rate
 
 ## 🖼️ Images
 <a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
@@ -29,9 +29,4 @@ Probably this will work with the most browsers, but here is a list which browser
 |     Firefox    |     ✅     |
 |     Chrome     |     ✅     |
 
-## ✌️ Credits
-- [Materialize](https://materializecss.com/)
-- [ml5js](https://ml5js.org/)
-=======
-# Object-Detection-Using-AI
->>>>>>> 6e9b693e82978589ee22bb53e473d8d9484d553d
+
